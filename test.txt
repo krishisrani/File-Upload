@@ -1,0 +1,3 @@
+This is a test file for the CloudVault file upload system.
+It contains some text to verify that the file upload and preview functionality works correctly.
+CloudVault should be able to upload this text file and show a preview of its contents!
